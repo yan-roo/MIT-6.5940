@@ -20,11 +20,11 @@ Implementation notes and code for the **five lab assignments** of MIT 6.5940 �
 
 ```text
 .
-├── lab1.ipynb           # fine‑grained & channel pruning
-├── lab2.ipynb      # W‑bit / A‑bit post‑training quant
-├── lab3.ipynb               # differentiable NAS & hardware‑aware search
-├── lab4.ipynb   # sparse / quant LLM, KV cache sharing
-├── lab5.ipynb    # run Llama‑2‑7B on laptop CPU/GPU
+├── lab1.ipynb     # Fine-grained Pruning & Channel Pruning
+├── lab2.ipynb     # K-Means Quantization & Linear Quantization
+├── lab3.ipynb     # differentiable NAS & hardware‑aware search
+├── lab4.ipynb     # sparse / quant LLM, KV cache sharing
+├── lab5.ipynb     # run Llama‑2‑7B on laptop CPU/GPU
 └── README.md
 ```
 
