@@ -1,0 +1,4 @@
+[submodule "Lab5"]
+	path = Lab5
+	url = git@github.com:yan-roo/tinychat-tutorial.git
+	branch = main
