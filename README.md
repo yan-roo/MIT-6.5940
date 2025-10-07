@@ -24,6 +24,7 @@ Implementation notes and code for the **four lab assignments** of MIT 6.5940 �
 ├── Lab2.ipynb     # K-Means Quantization & Linear Quantization
 ├── Lab3.ipynb     # Accuracy & Efficiency Predictors and Architecture Search
 ├── Lab4.ipynb     # LLM Quantization with AWQ
+├── Lab5           # Optimize LLM on Edge Devices
 └── README.md
 ```
 
@@ -37,4 +38,4 @@ Implementation notes and code for the **four lab assignments** of MIT 6.5940 �
 | **2** | Quantization               | 2024‑09‑26 → 10‑08 | k‑means & linear quantization, QAT & INT8 inference speed‑up |
 | **3** | Neural Architecture Search | 2024‑10‑08 → 10‑22 | random & evolutionary search, accuracy & efficiency predictors, MACs/memory constraints |
 | **4** | LLM Compression            | 2024‑10‑22 → 10‑31 | weight-only 4-bit AWQ                                    |
-| **5** | LLM Deployment on Laptop   | 2024‑10‑31 → 11‑12 |                                                          |
+| **5** | LLM Deployment on Laptop   | 2024‑10‑31 → 11‑12 | TinyChatEngine setup, linear kernel loop-unrolling / multithreading / SIMD optimizations|
